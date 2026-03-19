@@ -36,5 +36,12 @@ This project helped me understand:
 - Verilog module structure
 - Input/output declaration
 - `assign` statements
+
+
+
+## Simulation Result
+
+The design was simulated successfully in EDA Playground using Icarus Verilog.
+
 - Ternary operator (`?:`)
 - Basic simulation with a testbench
